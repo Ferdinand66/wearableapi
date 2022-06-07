@@ -1,0 +1,78 @@
+[
+    {   "description": "Watch",
+        "brand": "Patek Philippe",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "Watch",
+        "brand": "Rolex",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "Watch",
+        "brand": "Audemars Piguet",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "Watch",
+        "brand": "Richard Mille",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "Watch",
+        "brand": "Cartier",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "Watch",
+        "brand": "Vacheron Constantin",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "Watch",
+        "brand": "TAG Heuer",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "Watch",
+        "brand": "Hublot",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "SmartWatch",
+        "brand": "apple",
+        "size": "M, L, XL",
+        "color": "Black",
+        "battery": "disposable"
+    },
+    {
+        "description": "Smartband",
+        "brand": "xiaomi",
+        "size": "M, L, XL",
+        "color": "black",
+        "battery": "rechargable"
+    },
+    {
+        "description": "smartWatch",
+        "brand": "samsung",
+        "size": "M, L, XL",
+        "color": "black",
+        "battery": "rechargable"
+    }
+]

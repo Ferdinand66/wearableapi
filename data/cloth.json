@@ -1,0 +1,188 @@
+[
+    {
+        "description": "topWear",
+        "brand": "Tommy Hilfigher",
+        "size": "M",
+        "color": "Black"
+    },
+    {
+        "description": "topWear",
+        "brand": "Gucci",
+        "size": "S",
+        "color": "White"
+    },
+    {
+        "description": "topWear",
+        "brand": "Nike",
+        "size": "L",
+        "color": "Gray"
+    },
+    {
+        "description": "topWear",
+        "brand": "Adiddas",
+        "size": "XL",
+        "color": "Yellow"
+    },
+    {
+        "description": "topWear",
+        "brand": "Cartier",
+        "size": "S",
+        "color": "Green"
+    },
+    {
+        "description": "topWear",
+        "brand": "Zara",
+        "size": "XS",
+        "color": "Brown"
+    },
+    {
+        "description": "topWear",
+        "brand": "H&M",
+        "size": "S",
+        "color": "Beige"
+    },
+    {
+        "description": "topWear",
+        "brand": "Chanel",
+        "size": "M",
+        "color": "Red"
+    },
+    {
+        "description": "bottomWear",
+        "brand": "Oggi",
+        "size": "M",
+        "color": "Black"
+    },
+    {
+        "description": "bottomWear",
+        "brand": "Silver Plate",
+        "size": "S",
+        "color": "White"
+    },
+    {
+        "description": "bottomWear",
+        "brand": "Silverado ",
+        "size": "L",
+        "color": "Gray"
+    },
+    {
+        "description": "bottomWear",
+        "brand": "Levi's",
+        "size": "XL",
+        "color": "Blue"
+    },
+    {
+        "description": "bottomWear",
+        "brand": "American Crew",
+        "size": "S",
+        "color": "Brown"
+    },
+    {
+        "description": "shoes",
+        "brand": "Members Mark",
+        "size": "M",
+        "color": "Red"
+    },
+    {
+        "description": "shoes",
+        "brand": "Tommy Hilfigher",
+        "size": "M, L, XL",
+        "color": "Black"
+    },
+    {
+        "description": "shoes",
+        "brand": "Hurley",
+        "size": "XS, S",
+        "color": "Black"
+    },
+    {
+        "description": "shoes",
+        "brand": "Adidas",
+        "size": "M, L, XL",
+        "color": "Black"
+    },
+    {
+        "description": "shoes",
+        "brand": "Jordan",
+        "size": "M, L, XL",
+        "color": "Black"
+    },
+    {
+        "description": "shoes",
+        "brand": "Under Armour",
+        "size": "XS, S",
+        "color": "Black"
+    },
+    {
+        "description": "shoes",
+        "brand": "New Era",
+        "size": "XS, S",
+        "color": "Black"
+    },
+    {
+        "description": "caps",
+        "brand": "California",
+        "size": "M, L, XL",
+        "color": "Black"
+    },
+    {
+        "description": "topwear",
+        "brand": "Hermes",
+        "size": "M",
+        "color": "Black"
+    },
+    {
+        "description": "topwear",
+        "brand": "Chanel",
+        "size": "S",
+        "color": "White"
+    },
+    {
+        "description": "topwear",
+        "brand": "Louis Vuitton",
+        "size": "L",
+        "color": "Gray"
+    },
+    {
+        "description": "topwear",
+        "brand": "Christian Dior",
+        "size": "XL",
+        "color": "Yellow"
+    },
+     {
+        "description": "topwear",
+        "brand": "Ferragamo",
+        "size": "XL",
+        "color": "Blue"
+    },
+     {
+        "description": "topwear",
+        "brand": "Versace",
+        "size": "XL",
+        "color": "Red"
+    },
+     {
+        "description": "blouse",
+        "brand": "Prada",
+        "size": "XL",
+        "color": "Beige"
+    }
+    , {
+        "description": "blouse",
+        "brand": "Fendi",
+        "size": "XL",
+        "color": "Green"
+    },
+     {
+        "description": "blouse",
+        "brand": "Giorgio Armani",
+        "size": "XL",
+        "color": "Purple"
+    },
+    {
+        "description": "blouse",
+        "brand": "Ermenegildo Zegna",
+        "size": "M",
+        "color": "Pink"
+    }
+]

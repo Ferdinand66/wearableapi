@@ -1,0 +1,37 @@
+[
+    {
+        "description": "glases",
+        "brand": "SmartBuy",
+        "size": "XS, S",
+        "color": "Black",
+        "type": "read"
+    },
+    {
+        "description": "glases",
+        "brand": "Arise Collective",
+        "size": "M, L, XL",
+        "color": "Black",
+        "type": "rest"
+    },
+    {
+        "description": "glases",
+        "brand": "Oakley",
+        "size": "XS, S",
+        "color": "Black",
+        "type": "outside"
+    },
+    {
+        "description": "glases",
+        "brand": "Ray-Ban",
+        "size": "M, L, XL",
+        "color": "Black",
+        "type": "night"
+    },
+    {
+        "description": "glases",
+        "brand": "Tom Ford",
+        "size": "XS, S",
+        "color": "Black",
+        "type": "sunny"
+    } 
+]
